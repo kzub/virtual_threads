@@ -1,3 +1,7 @@
+#ifdef PLATFORMIO
+#include <Arduino.h>
+#endif
+
 #ifndef src_virtual_threads_h
 #define src_virtual_threads_h
 

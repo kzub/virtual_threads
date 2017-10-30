@@ -1,4 +1,4 @@
-#ifndef Arduino_h
+#ifndef PLATFORMIO
 #include <stdio.h>
 #include <sys/time.h>
 unsigned long millis() {
